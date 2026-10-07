@@ -1,0 +1,8 @@
+{
+  "name": "manna-admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "typecheck": "tsc --noEmit" },
+  "dependencies": { "next": "14.2.35", "react": "18.3.1", "react-dom": "18.3.1", "lucide-react": "^0.468.0", "@fontsource/poppins": "^5.2.0" },
+  "devDependencies": { "typescript": "^5.7.0", "@types/node": "^22.0.0", "@types/react": "^18.3.0", "@types/react-dom": "^18.3.0", "tailwindcss": "^4.0.0", "@tailwindcss/postcss": "^4.0.0", "postcss": "^8.0.0" }
+}
